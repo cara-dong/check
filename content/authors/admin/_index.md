@@ -1,60 +1,39 @@
 ---
-title: "Shilaan Alzahawi"
-education:
-  courses:
-  - course: MSc in Business Administration
-    institution: Rotterdam School of Management
-    year: 2017
-  - course: BSc in Public Administration Science
-    institution: Erasmus School of Social and Behavioral Sciences
-    year: 2014
-  - course: LLB in Law
-    institution: Erasmus School of Law
-    year: 2014
-email: shilaan@stanford.edu
+title: "Manye Dong"
+email: caradong@berkeley.edu
 highlight_name: no
-interests:
-- Statistical Inference
-- Experimental Design
-- Open and Reproducible Science
-- Team and Crowdsourced Science
 organizations:
-- name: Stanford University
-  url: https://datascience.stanford.edu/people/shilaan-alzahawi
-role: PhD student in Organizational Behavior
+- name: University of California, Berkeley
+role: Data Science, Comparative Literature BA
 social:
 - icon: envelope
   icon_pack: fas
-  link: mailto:shilaan@stanford.edu 
+  link: caradong@berkeley.edu 
 - display:
     header: yes
-  icon: twitter
-  icon_pack: fab
-  label: Find me on Twitter
-  link: https://twitter.com/shilaan01
-#- icon: google-scholar
-#  icon_pack: ai
-#  link: https://scholar.google.com/citations?user=FNPgIGAAAAAJ&hl=en&oi=sra
-- icon: osf
-  icon_pack: ai
-  link: https://osf.io/ug7xd/ 
-- icon: orcid
-  icon_pack: ai
-  link: http://orcid.org/0000-0002-6892-4643 
 - icon: github
   icon_pack: fab
-  link: https://github.com/shilaan
+  link: https://github.com/cara-dong
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/shilaanalzahawi/
+  link: https://www.linkedin.com/in/manye-cara-dong-563a851aa/
 - icon: instagram
   icon_pack: fab
-  link: https://www.instagram.com/shilaan01/ 
+  link: https://www.instagram.com/cara.dongg/ 
 superuser: yes
-bio: My research interests include statistics, meta-science, and crowdsourced science
-greeting: alzahawi::shilaan()
+bio: I strive to explore the intersection of arts and data science!
+greeting: manye::dong()
+design:
+  background:
+    gradient_start: '#f7cac9'
+    gradient_end: '#91a8d0'
+    gradient_angle: 180
+    # Text color (true=light, false=dark, or remove for the dynamic theme color).
+    text_color_light: true
 ---
 
-I am a PhD student in Organizational Behavior at the Stanford Graduate School of Business and an Affiliate at the Stanford Data Science Center for Open and Reproducible Science (SDS-CORES). My research interests include statistics, meta-science, and crowdsourced science. I am passionate about the development and implementation of tools that increase the rigor, reproducibility, and transparency of scientific research. 
+I am an undergraduate student double-majoring in Data Science and Comparative Literature at the University of California, Berkeley. I am passionate about dealing with large datasets, writing journals and learning new languages (not just programming). My mother language is Mandarin Chinese, and I am fluent in English and Spanish.
 
-My favorite letter in the alphabet is R, and I am weirdly evangelical about it. I co-teach Data & Decisions --- a graduate-level, introductory class on probability and statistics using {{< icon name="r-project" pack="fab" >}} --- and I'm a technical mentor for the Stanford Data Science for Social Good program. I learn by teaching, so I consider myself very lucky! 
+I have tutored undergraduate-level, introductory data science course at Berkeley. I have also remotely-tutored art history and world history courses for high school students for four semesters. I learn and grow by teaching, so I really enjoy the process!
+
+"Sabemos perfectamente que no existen más que tres temas básicos: el amor, la vida y la muerte."--Juan Rulfo
