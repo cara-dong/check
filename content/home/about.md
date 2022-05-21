@@ -13,6 +13,13 @@ headless: true
 weight: 15
 
 title: About Me
+design:
+  background:
+    gradient_start: '#f7cac9'
+    gradient_end: '#91a8d0'
+    gradient_angle: 180
+    # Text color (true=light, false=dark, or remove for the dynamic theme color).
+    text_color_light: true
 
 # Choose the user profile to display
 # This should be the username (folder name) of a profile in your `content/authors/` folder.

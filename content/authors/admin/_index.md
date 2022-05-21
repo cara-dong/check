@@ -29,7 +29,7 @@ design:
     gradient_end: '#91a8d0'
     gradient_angle: 180
     # Text color (true=light, false=dark, or remove for the dynamic theme color).
-    text_color_light: true
+    # text_color_light: false
 ---
 
 I am an undergraduate student double-majoring in Data Science and Comparative Literature at the University of California, Berkeley. I am passionate about dealing with large datasets, writing journals and learning new languages (not just programming). My mother language is Mandarin Chinese, and I am fluent in English and Spanish.
