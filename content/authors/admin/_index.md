@@ -30,10 +30,13 @@ design:
     gradient_angle: 180
     # Text color (true=light, false=dark, or remove for the dynamic theme color).
     # text_color_light: false
+  spacing:
+    # Customize the section spacing. Order is top, right, bottom, left.
+    padding: ["20px", "0", "20px", "0"]
 ---
 
 I am an undergraduate student double-majoring in Data Science and Comparative Literature at the University of California, Berkeley. I am passionate about dealing with large datasets, writing journals and learning new languages (not just programming). My mother language is Mandarin Chinese, and I am fluent in English and Spanish.
 
 I have tutored undergraduate-level, introductory data science course at Berkeley. I have also remotely-tutored art history and world history courses for high school students for four semesters. I learn and grow by teaching, so I really enjoy the process!
 
-"Sabemos perfectamente que no existen más que tres temas básicos: el amor, la vida y la muerte."--Juan Rulfo
+"Sabemos perfectamente que no existen más que tres temas básicos: el amor, la vida y la muerte."---Juan Rulfo
