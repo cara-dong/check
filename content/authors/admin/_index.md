@@ -39,4 +39,5 @@ I am an undergraduate student double-majoring in Data Science and Comparative Li
 
 I have tutored undergraduate-level, introductory data science course at Berkeley. I have also remotely-tutored art history and world history courses for high school students for four semesters. I learn and grow by teaching, so I really enjoy the process!
 
-"Sabemos perfectamente que no existen más que tres temas básicos: el amor, la vida y la muerte."---Juan Rulfo
+"Sabemos perfectamente que no existen más que tres temas básicos: el amor, la vida y la muerte."
+---Juan Rulfo
