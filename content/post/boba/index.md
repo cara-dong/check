@@ -31,6 +31,10 @@ As we know, boba place could be really busy during the day, and the amount of fr
 2. Peel them (real quick)
 3. Blend all fruits well to be used in later milk-tea making
 
-So, let's help R print these instructions.
+So, let's help R jot down these instructions in its notebook for reference when it started preparing fruits.
 
+```python
+print("Check fruits are in store.")
+print("Check fruits are in store.")
+```
 
